@@ -1,2 +1,3 @@
 # portfolio-FrontEnd
-FrontEnd del portafolio web personal
+FrontEnd del portafolio web profesional
+
